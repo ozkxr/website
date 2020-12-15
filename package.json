@@ -11,12 +11,13 @@
   "author": "Shu Ding",
   "license": "MIT",
   "dependencies": {
+    "gray-matter": "^4.0.2",
     "next": "^10.0.3",
     "nextra": "^0.3.1",
     "nextra-theme-blog": "^0.1.3",
-    "nextra-theme-docs": "^1.0.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "rss": "^1.2.2"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
