@@ -21,6 +21,4 @@ Aún no *termino* de entender cuál es mi necedad con esto. Creo que es mi atrac
 
 Podría escribir sobre videojuegos, algorítmos, [fútbol](https://blog.ozkxr.now.sh/textos/init/), música o sobre mi vida personal; qué se yo… después de todo, tengo tanto sobre lo que podría escribir.
 
-{{ youtube(id="NUbqNxcU8cY" width="600" class="youtube") }}
-
 Trataré de que esta vez sea diferente, me esforzaré en que esta vez funcione.
